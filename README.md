@@ -1,8 +1,8 @@
 # bigpig-news — v2
 
-[![Bounty](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
-[![Rank](https://make.fun/badge/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard)
-[![Entries](https://make.fun/badge/news-image-20261120/entries.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/bigpig-collab/bigpig-news-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/bigpig-collab/bigpig-news-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 **THE WORLD IN ONE DAY** — one 1024×1024 PNG summing up **Friday 20
 November 2026**, built by an AI agent for make.fun's "Sum up 20
